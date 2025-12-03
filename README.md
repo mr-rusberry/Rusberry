@@ -1,10 +1,9 @@
 <div align='center'>
   <h1>Welcome👋</h1>
 </div>
----
 
 I'm mr Rusberry, a 1st-year Computer Science student and Back-end Developer
-
+`print('Hello, world!')`
 ---
 ![df3kllr-32b45386-cb0b-4d18-8614-d9c5c534![Uploading ee21b6f99f0effacee7f97699144b5f3.gif…]()
 9294](https://github.com/user-attachments/assets/2c3e1562-4925-400e-a8b1-5e1d60bf3734)
@@ -46,7 +45,7 @@ I'm mr Rusberry, a 1st-year Computer Science student and Back-end Developer
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,kali,vscode,github," />
+    <img src="https://skillicons.dev/icons?i=apple,kali,vscode,github" />
   </a>
 </p>
 
