@@ -42,10 +42,10 @@
 
 <p align="center">
   <a href="https://github.com/Saboo24">
-    <img src="https://komarev.com/ghpvc/?username=Saboo24&color=3a8296&label=Profile%20Views" />
+    <img src="https://komarev.com/ghpvc/?username=mr-rusberry&color=3a8296&label=Profile%20Views" />
   </a>
   <a href="https://github.com/Saboo24">
-    <img src="https://img.shields.io/github/followers/Saboo24?label=GitHub%20Followers&color=3a8296&style=flat" />
+    <img src="https://img.shields.io/github/followers/mr-rusberry?label=GitHub%20Followers&color=3a8296&style=flat" />
   </a>
 </p>
 
